@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "99443109366",
+    "project_id": "project-cookita-apps",
+    "storage_bucket": "project-cookita-apps.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99443109366:android:28346129be097535196bd7",
+        "android_client_info": {
+          "package_name": "com.cookita"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkvm8pkHuDNqo8c_Jpe0R0SAECCE0jnew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99443109366:android:bbc23c1a2e27b498196bd7",
+        "android_client_info": {
+          "package_name": "com.cookitaappproject.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkvm8pkHuDNqo8c_Jpe0R0SAECCE0jnew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99443109366:android:ef66e11b93a4d035196bd7",
+        "android_client_info": {
+          "package_name": "com.cookitaappsproject.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkvm8pkHuDNqo8c_Jpe0R0SAECCE0jnew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
